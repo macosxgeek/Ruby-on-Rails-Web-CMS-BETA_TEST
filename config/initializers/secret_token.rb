@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-RubyOnRailsWebCMSBETATEST::Application.config.secret_token = '4fb07170bf6c4163f7775a350520c5e905b1b689be272b6393770b431cf3498da0cd70f30638bceb28d1d659a8b58bf85e40a59f939b2f7f49b556f8b1e506eb'
+RubyOnRailsWebCMSBETA::Application.config.secret_token = 'de0f59f223fad5f154b8e06e5017a1b12c5fddbe45dc321f472a134f2a27c1ab2ec9dbe8b5f0a54713a9f2a42e4d21afc86ef1cab4a51911418417aa00ab944d'
