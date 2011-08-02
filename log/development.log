@@ -1,0 +1,216 @@
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /opt/local/lib/ruby/1.8/webrick/httpserver.rb:104)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:13:37 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:13:56 +0200 2011
+
+NameError (uninitialized constant RubyOnRailsWebCMSBETA_TEST):
+  config/routes.rb:1
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_trace.erb (0.9ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (11.1ms)
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (16.5ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:13:57 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:13:58 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:13:59 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:13:59 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:14:00 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:14:01 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:14:01 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:14:08 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:14:08 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:14:08 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:14:09 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.6ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:18:11 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:18:12 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 05:18:12 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW TABLES
+  [1m[36mSQL (282.1ms)[0m  [1mCREATE TABLE `schema_migrations` (`version` varchar(255) NOT NULL) ENGINE=InnoDB[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `schema_migrations`
+  [1m[36mSQL (119.7ms)[0m  [1mCREATE UNIQUE INDEX `unique_schema_migrations` ON `schema_migrations` (`version`)[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.1ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.1ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20110802032210)
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110802032210')
+Migrating to CreateUsers (20110802032453)
+  [1m[36mSQL (114.6ms)[0m  [1mCREATE TABLE `users` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `pierwsze_imie` varchar(25), `drugie_imie` varchar(50), `email` varchar(255) DEFAULT '' NOT NULL, `password` varchar(40), `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110802032453')
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.3ms)[0m  SELECT `schema_migrations`.`version` FROM `schema_migrations`
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.9ms)[0m  describe `users`
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW KEYS FROM `users`[0m
+  [1m[36mSQL (7.9ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.2ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20110802032210)
+Migrating to CreateUsers (20110802032453)
+Migrating to AlterUsers (20110802034303)
+  [1m[35mSQL (0.8ms)[0m  RENAME TABLE `users` TO `admin_users`
+  [1m[36mSQL (69.4ms)[0m  [1mALTER TABLE `admin_users` ADD `username` varchar(25)[0m
+  [1m[35mSQL (160.5ms)[0m  ALTER TABLE `admin_users` CHANGE `email` `email` varchar(100) DEFAULT '' NOT NULL
+  [1m[36mSQL (2.1ms)[0m  [1mSHOW COLUMNS FROM `admin_users` LIKE 'password'[0m
+  [1m[35mSQL (85.5ms)[0m  ALTER TABLE `admin_users` CHANGE `password` `hashed_password` varchar(40) DEFAULT NULL
+  [1m[36mSQL (108.3ms)[0m  [1mALTER TABLE `admin_users` ADD `salt` varchar(40)[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (74.3ms)[0m  [1mCREATE INDEX `index_admin_users_on_username` ON `admin_users` (`username`)[0m
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO `schema_migrations` (`version`) VALUES ('20110802034303')
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SELECT `schema_migrations`.`version` FROM `schema_migrations`
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (1.0ms)[0m  describe `admin_users`
+  [1m[36mSQL (0.2ms)[0m  [1mSHOW KEYS FROM `admin_users`[0m
+  [1m[36mSQL (11.7ms)[0m  [1mSHOW TABLES[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (3.6ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+Migrating to DoNothingYet (20110802032210)
+Migrating to CreateUsers (20110802032453)
+Migrating to AlterUsers (20110802034303)
+Migrating to CreateSubjects (20110802040105)
+  [1m[35mSQL (310.3ms)[0m  CREATE TABLE `subjects` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `name` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110802040105')[0m
+Migrating to CreatePages (20110802040127)
+  [1m[35mSQL (101.1ms)[0m  CREATE TABLE `pages` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `subject_id` int(11), `name` varchar(255), `permalink` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `pages`[0m
+  [1m[35mSQL (116.9ms)[0m  CREATE INDEX `index_pages_on_subject_id` ON `pages` (`subject_id`)
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `pages`[0m
+  [1m[35mSQL (66.4ms)[0m  CREATE INDEX `index_pages_on_permalink` ON `pages` (`permalink`)
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110802040127')[0m
+Migrating to CreateSections (20110802040134)
+  [1m[35mSQL (61.7ms)[0m  CREATE TABLE `sections` (`id` int(11) DEFAULT NULL auto_increment PRIMARY KEY, `page_id` int(11), `name` varchar(255), `position` int(11), `visible` tinyint(1) DEFAULT 0, `content_type` varchar(255), `content` text, `created_at` datetime, `updated_at` datetime) ENGINE=InnoDB
+  [1m[36mSQL (0.3ms)[0m  [1mSHOW KEYS FROM `sections`[0m
+  [1m[35mSQL (84.3ms)[0m  CREATE INDEX `index_sections_on_page_id` ON `sections` (`page_id`)
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO `schema_migrations` (`version`) VALUES ('20110802040134')[0m
+  [1m[35mSQL (0.3ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.3ms)[0m  [1mSELECT `schema_migrations`.`version` FROM `schema_migrations`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW TABLES
+  [1m[36mSQL (0.9ms)[0m  [1mdescribe `admin_users`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `admin_users`
+  [1m[36mSQL (3.8ms)[0m  [1mdescribe `pages`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `pages`
+  [1m[36mSQL (0.7ms)[0m  [1mdescribe `sections`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `sections`
+  [1m[36mSQL (0.9ms)[0m  [1mdescribe `subjects`[0m
+  [1m[35mSQL (0.2ms)[0m  SHOW KEYS FROM `subjects`
+
+
+Started GET "/index/beta" for 192.168.1.102 at Tue Aug 02 06:17:03 +0200 2011
+
+ActionController::RoutingError (No route matches "/index/beta"):
+  
+
+Rendered /opt/local/lib/ruby/gems/1.8/gems/actionpack-3.0.9/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.7ms)

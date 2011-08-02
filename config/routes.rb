@@ -1,4 +1,4 @@
-RubyOnRailsWebCMSBETA::Application.routes.draw do
+RubyOnRailsWebCMSBETATEST::Application.routes.draw do
   
   #get "beta/index"
 root :to => "beta#index"
